@@ -1,0 +1,10 @@
+{
+  "name": "karen-quartz-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx quartz build"
+  },
+  "dependencies": {
+    "@quartz/schema": "latest"
+  }
+}
